@@ -1,0 +1,27 @@
+.card{
+    margin-top: 50px;
+    background-color: #F5DD61;
+}
+body{
+    background-color: #59D5E0;
+}
+.btn-primary{ 
+    background-color: #F4538A;
+    border: none;
+    width: 100%;
+}
+p,h4,h5{
+    font-family: cursive;
+    text-transform: capitalize;
+}
+.card-header{
+    background-color: #FAA300;
+}
+.errorp{
+    text-align: center;
+    font-size: 30px;
+    color:#F4538A;
+}  
+*{
+    font-family: cursive;
+}
